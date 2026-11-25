@@ -1,2 +1,2 @@
-# pias
+# pias book+
 book+ é uma plataforma digital literária criada para incentivar a leitura, a troca de ideias e a escrita criativa entre leitores de todos os lugares. Com uma interface acolhedora, o site conecta pessoas com gostos em comum e dá voz a autores iniciantes por meio de três espaços: um catálogo colaborativo com sinopses interativas, um clube do livro com leituras e debates semanais, e um mural aberto para qualquer usuário publicar seus próprios contos, crônicas e poemas.
